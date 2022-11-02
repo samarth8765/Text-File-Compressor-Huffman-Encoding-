@@ -25,7 +25,7 @@ And a constructor which accepts input file and output file. The object of this c
 4)saveEncodedFile(): This function saves the Huffman encoded input file to the output file. The image below illustrates how the output file is written.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/samarth8765/Text-File-Compressor-Huffman-Encoding-/blob/master/images/img_1.png">
 </p>
 
 minHeap = ({character data} {huffman code for that character}) * minheapsize
@@ -48,11 +48,11 @@ The output file should be (.huf) file which represents it is a Huffman encoded f
 To run this project you need to create an executable file. You can follow the steps given below:
 1) For compressing:
 <p align="center">
-  <img src="">
+  <img src="https://github.com/samarth8765/Text-File-Compressor-Huffman-Encoding-/blob/master/images/img_2.png">
 </p>
 2) For Decompressing:
 <p align="center">
-  <img src="">
+  <img src="https://github.com/samarth8765/Text-File-Compressor-Huffman-Encoding-/blob/master/images/img_3.png">
 </p>
 
 # Result:
