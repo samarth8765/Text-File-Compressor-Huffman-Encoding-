@@ -58,3 +58,8 @@ To run this project you need to create an executable file. You can follow the st
 # Result:
 
 We can observe by above that it compressed inputFile.txt by 50%
+<p align="center">
+  <img src="https://github.com/samarth8765/Text-File-Compressor-Huffman-Encoding-/blob/master/images/img_4.png">
+</p>
+Original file size -> 2.06 MB
+Compressed file size -> 1.09 MB
